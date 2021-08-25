@@ -3,7 +3,7 @@
 
 ## Tebex Link
 ```
-REALLY-PLUTO Scripts: (https://really-pluto.tebex.io/category/1897526)
+[REALLY-PLUTO Scripts:] (https://really-pluto.tebex.io/category/1897526)
 ```
 
 
